@@ -66,11 +66,10 @@ Enter RAM in GB (e.g., 4): 4
 - Python 3
 - Bash scripting
 - JSON
-- Logging
-- Input validation
+
 
 ---
 
 ## 👨‍💻 Author
 
-Yuval Vos – John Bryce College
+Yuval Vos 
