@@ -1,0 +1,76 @@
+2025-08-01 12:22:49,474 - INFO - provisioning started
+2025-08-01 12:23:06,173 - ERROR - Invalid OS: windows
+2025-08-01 12:23:33,511 - INFO - Machine added: {'name': 'yuvi', 'os': 'Linux', 'cpu': 2, 'ram': 20}
+2025-08-01 12:24:47,984 - INFO - provisioning started
+2025-08-01 12:25:01,954 - ERROR - Invalid OS: linux
+2025-08-01 12:25:39,165 - INFO - provisioning started
+2025-08-01 12:25:48,685 - INFO - Machine added: {'name': 'yuvi', 'os': 'linux', 'cpu': 2, 'ram': 2}
+2025-08-01 12:28:34,307 - INFO - provisioning started
+2025-08-01 12:28:51,814 - INFO - Machine added: {'name': 'yuvi', 'os': 'linux', 'cpu': 2, 'ram': 2}
+2025-08-01 12:35:06,813 - INFO - provisioning started
+2025-08-01 12:35:24,866 - INFO - Machine added: {'name': 'yuvi', 'os': 'linux', 'cpu': 2, 'ram': 2}
+2025-08-01 12:35:31,687 - INFO - Machines saved to configs/instances.json
+2025-08-01 12:35:31,687 - INFO - provisioning completed
+2025-08-01 12:59:00,657 - INFO - provisioning started
+2025-08-01 12:59:13,867 - INFO - Machine added: {'name': 'yuvi', 'os': 'linux', 'cpu': 2, 'ram': 2}
+2025-08-01 12:59:18,259 - INFO - Machines saved to configs/instances.json
+2025-08-01 12:59:18,259 - INFO - provisioning completed
+2025-08-02 12:26:24,755 - INFO - provisioning started
+2025-08-02 12:26:31,752 - INFO - provisioning started
+2025-08-02 12:27:42,049 - INFO - provisioning started
+2025-08-02 12:28:00,088 - INFO - Machine created: yuvi, OS: linux, CPU: 2, RAM: 2GB
+2025-08-02 12:28:20,632 - INFO - provisioning started
+2025-08-02 12:28:36,131 - INFO - Machine created: yuvi, OS: linux, CPU: 2, RAM: 2GB
+2025-08-02 12:34:15,525 - INFO - provisioning started
+2025-08-02 12:34:25,704 - INFO - provisioning started
+2025-08-02 12:34:35,183 - INFO - Machine created: yuvi, OS: linux, CPU: 2, RAM: 2GB
+2025-08-02 12:54:00,330 - INFO - provisioning started
+2025-08-02 13:01:17,594 - INFO - Machine created: yuvi, OS: linux, CPU: 2, RAM: 2GB
+2025-08-02 13:01:19,786 - INFO - Machines saved to configs/instances.json
+2025-08-02 13:01:19,786 - INFO - provisioning completed
+2025-08-02 13:05:20,588 - INFO - provisioning started
+2025-08-02 13:05:29,937 - ERROR - Invalid OS: mac
+2025-08-02 13:05:43,667 - ERROR - Invalid OS: macos
+2025-08-02 13:05:56,021 - INFO - Machine created: yuvi, OS: linux, CPU: 2, RAM: 2GB
+2025-08-02 13:05:58,447 - INFO - Machines saved to configs/instances.json
+2025-08-02 13:05:58,459 - INFO - Nginx setup script executed successfully
+2025-08-02 13:05:58,460 - INFO - provisioning completed
+2025-08-02 13:13:34,985 - INFO - provisioning started
+2025-08-02 13:13:46,830 - ERROR - Invalid OS: LINUX
+2025-08-02 13:14:01,433 - INFO - Machine created: yuvi, OS: mac, CPU: 2, RAM: 2GB
+2025-08-02 13:14:03,897 - INFO - Machines saved to configs/instances.json
+2025-08-02 13:14:03,906 - INFO - Nginx setup script executed successfully
+2025-08-02 13:14:03,907 - INFO - provisioning completed
+2025-08-02 13:18:27,716 - INFO - provisioning started
+2025-08-02 13:18:37,990 - INFO - Machine created: yuvi, OS: linux, CPU: 2, RAM: 2GB
+2025-08-02 13:20:04,057 - ERROR - CPU must be a positive number
+2025-08-02 13:20:58,145 - ERROR - CPU must be a positive number
+2025-08-05 14:14:42,716 - INFO - provisioning started
+2025-08-05 14:18:45,664 - INFO - provisioning started
+2025-08-05 14:19:24,733 - ERROR - Invalid RAM input: not a number - 2.3
+2025-08-05 14:19:33,219 - ERROR - Invalid RAM input: not a number - 02l
+2025-08-05 14:19:36,820 - ERROR - Invalid RAM input: not a number - hello
+2025-08-05 14:19:38,578 - INFO - Machine created: yuvi, OS: linux, CPU: 3, RAM: 2GB
+2025-08-05 14:19:43,921 - INFO - Machines saved to configs/instances.json
+2025-08-05 14:19:43,930 - INFO - Nginx setup script executed successfully
+2025-08-05 14:19:43,931 - INFO - provisioning completed
+Starting nginx installation...
+Pretending to install nginx...
+Nginx installation completed.
+2025-08-05 14:32:57,227 - INFO - provisioning started
+2025-08-05 14:33:08,417 - INFO - Machine created: yuvi, OS: mac, CPU: 2, RAM: 4GB
+2025-08-05 14:33:10,552 - INFO - Machines saved to configs/instances.json
+Starting nginx installation...
+Pretending to install nginx...
+Nginx installation completed.
+2025-08-05 14:33:12,571 - INFO - Nginx setup script executed successfully
+2025-08-05 14:33:12,572 - INFO - provisioning completed
+2025-08-05 14:34:52,925 - INFO - provisioning started
+2025-08-05 14:34:56,243 - INFO - provisioning started
+2025-08-05 14:35:03,143 - INFO - Machine created: yuvi, OS: mac, CPU: 2, RAM: 2GB
+2025-08-05 14:35:05,703 - INFO - Machines saved to configs/instances.json
+Starting nginx installation...
+Pretending to install nginx...
+Nginx installation completed.
+2025-08-05 14:35:07,720 - INFO - Nginx setup script executed successfully
+2025-08-05 14:35:07,720 - INFO - provisioning completed
